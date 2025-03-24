@@ -3,7 +3,7 @@ import React from "react";
 function ContainerCards() {
     return (
         <div className="card mb-3" style={{maxWidth: 280, minWidth: 250}}>
-            <img src="/img/pano1.jpeg" className="card-img-top" alt="..." />
+            <img src="img/pano1.jpeg" className="card-img-top" alt="..." />
             <div className="card-body">
                 <div className="d-flex w-100 justify-content-between ali align-items-center">
                     <h5 className="card-title">Card title</h5>
