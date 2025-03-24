@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nome": "Kit 1",
+        "descricao": "Panos Girassol",
+        "fotos":[
+            "img.jpeg",
+            "img.jpeg",
+            "img.jpeg",
+            "img.jpeg",
+            "img.jpeg",
+            "img.jpeg",
+            "img.jpeg"
+        ]
+    },
+
+    {
+
+    }
+]
